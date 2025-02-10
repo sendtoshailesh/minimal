@@ -190,6 +190,139 @@ Seasoned technology leader with **19+ years** of experience in the software indu
 **Result:** Improved **event processing efficiency by 3x**, reducing **latency from 30s to 5s**.  
 
 ---
+
+## 📌 Google Cloud Projects  
+
+### **1️⃣ Enterprise Data Warehouse Modernization with BigQuery**  
+📌 *Technologies:* BigQuery, Dataflow, Cloud Storage, Looker  
+
+- **Situation:** A financial services company needed to modernize its **on-prem Oracle data warehouse** for better scalability and performance.  
+- **Task:** Migrate **terabytes of structured & semi-structured data** to **BigQuery** while ensuring optimal **cost efficiency & query performance**.  
+- **Action:**  
+  - Designed an **ETL pipeline using Dataflow** for **real-time data ingestion**.  
+  - Migrated historical data to **BigQuery with optimized partitioning & clustering**.  
+  - Integrated **Looker for real-time business intelligence & analytics**.  
+- **Result:** Achieved **5x faster queries** and **40% cost reduction** compared to the legacy system.  
+
+---
+
+### **2️⃣ Cloud SQL Optimization for High-Traffic E-Commerce Platform**  
+📌 *Technologies:* Cloud SQL (PostgreSQL/MySQL), IAM, Query Optimization  
+
+- **Situation:** A global e-commerce company faced **performance bottlenecks** in **Cloud SQL**, affecting transaction processing.  
+- **Task:** Optimize database performance to support **high-traffic workloads** without increasing costs.  
+- **Action:**  
+  - Conducted **query performance tuning** using **pg_stat_statements & MySQL EXPLAIN**.  
+  - Implemented **connection pooling & read replicas** for scaling read-heavy workloads.  
+  - Enforced **IAM-based role management** to enhance security.  
+- **Result:** Reduced **query latency by 60%** and improved **transaction throughput by 3x**.  
+
+---
+
+### **3️⃣ Real-Time Data Streaming with Google Cloud Pub/Sub & Dataflow**  
+📌 *Technologies:* Pub/Sub, Dataflow, Cloud Functions, BigQuery  
+
+- **Situation:** A retail company needed a **real-time event-driven data pipeline** for customer insights and fraud detection.  
+- **Task:** Implement a **scalable, real-time streaming architecture** on GCP.  
+- **Action:**  
+  - Developed an **event ingestion pipeline using Pub/Sub & Cloud Functions**.  
+  - Built a **real-time ETL pipeline with Apache Beam & Dataflow**.  
+  - Enabled **BigQuery streaming for real-time analytics & dashboarding**.  
+- **Result:** Enabled **sub-second latency processing**, reducing fraud detection response time by **70%**.  
+
+---
+
+### **4️⃣ Multi-Cloud Database Migration from AWS RDS to Cloud Spanner**  
+📌 *Technologies:* Cloud Spanner, AWS DMS, Terraform  
+
+- **Situation:** A fintech company wanted to migrate from **AWS RDS PostgreSQL** to **Google Cloud Spanner** for **horizontal scalability & global consistency**.  
+- **Task:** Execute a **seamless, low-downtime database migration** while maintaining **zero data loss**.  
+- **Action:**  
+  - Used **AWS DMS for continuous data replication** to Cloud Spanner.  
+  - Automated **schema conversions** and **query translations**.  
+  - Deployed **Terraform for infrastructure automation** across multi-cloud environments.  
+- **Result:** Achieved **99.99% availability** with **zero downtime migration**.  
+
+---
+
+### **5️⃣ AI-Powered Customer Support Chatbot using Dialogflow CX**  
+📌 *Technologies:* Dialogflow CX, Cloud Functions, Firebase, Cloud Run  
+
+- **Situation:** A telecom company needed an **AI-driven chatbot** to automate **80% of customer queries**.  
+- **Task:** Develop a **serverless, NLP-powered chatbot** integrated with their CRM system.  
+- **Action:**  
+  - Designed a **multi-turn conversational chatbot using Dialogflow CX**.  
+  - Integrated **Cloud Functions & Cloud Run** for backend automation.  
+  - Connected with **Firebase Firestore** for user context retention.  
+- **Result:** Automated **85% of support queries**, reducing **human intervention by 60%**.  
+
+---
+
+### **6️⃣ Hybrid Cloud Disaster Recovery using Google Cloud VMware Engine (GCVE)**  
+📌 *Technologies:* GCVE, Cloud VPN, Anthos, Filestore  
+
+- **Situation:** A healthcare provider required a **hybrid-cloud disaster recovery (DR) strategy** for critical applications running on **VMware vSphere**.  
+- **Task:** Implement a **resilient, automated failover architecture** between **on-prem and Google Cloud**.  
+- **Action:**  
+  - Set up **Google Cloud VMware Engine (GCVE) with vSphere replication**.  
+  - Configured **Cloud VPN & Anthos Service Mesh** for secure connectivity.  
+  - Integrated **Google Filestore & Persistent Disks** for scalable storage.  
+- **Result:** Achieved **99.99% uptime**, reducing DR recovery time from **hours to minutes**.  
+
+---
+
+### **7️⃣ Secure Data Governance & Compliance Framework on Google Cloud**  
+📌 *Technologies:* IAM, Cloud DLP, VPC Service Controls, Cloud Audit Logs  
+
+- **Situation:** A global bank needed to **enforce strict data security & compliance policies** in its multi-cloud environment.  
+- **Task:** Implement a **comprehensive data governance framework** aligned with **PCI-DSS & GDPR**.  
+- **Action:**  
+  - Deployed **VPC Service Controls** to restrict cross-project data access.  
+  - Used **Cloud DLP (Data Loss Prevention) for automatic PII masking**.  
+  - Enabled **Cloud Audit Logs** for real-time monitoring & compliance tracking.  
+- **Result:** Achieved **100% compliance** with **zero security breaches**.  
+
+---
+
+### **8️⃣ Cloud-Native DevOps CI/CD Pipeline using Cloud Build & GitOps**  
+📌 *Technologies:* Cloud Build, Cloud Run, GitHub Actions, Terraform  
+
+- **Situation:** A SaaS startup needed an **automated CI/CD pipeline** for rapid application deployment.  
+- **Task:** Build a **GitOps-based DevOps pipeline** with **automated testing & deployment**.  
+- **Action:**  
+  - Used **Cloud Build & GitHub Actions** for **continuous integration**.  
+  - Deployed workloads on **Cloud Run with Terraform automation**.  
+  - Implemented **Canary Deployments & Auto Rollbacks** for fault tolerance.  
+- **Result:** Reduced **deployment time by 70%**, enabling **daily releases**.  
+
+---
+
+### **9️⃣ Predictive Analytics Pipeline with Vertex AI & BigQuery ML**  
+📌 *Technologies:* Vertex AI, BigQuery ML, Cloud Functions, Looker  
+
+- **Situation:** An insurance company wanted to **predict customer churn** using **machine learning on Google Cloud**.  
+- **Task:** Build an **automated ML pipeline** for **predictive analytics & risk assessment**.  
+- **Action:**  
+  - Used **BigQuery ML for AutoML-based predictive modeling**.  
+  - Automated model training & inference with **Vertex AI Pipelines**.  
+  - Created **Looker dashboards** for real-time insights & decision-making.  
+- **Result:** Improved **churn prediction accuracy by 35%**, reducing customer loss.  
+
+---
+
+### **🔟 Cross-Cloud Kubernetes Deployment with Anthos GKE**  
+📌 *Technologies:* Anthos, GKE, Istio, Cloud Monitoring  
+
+- **Situation:** A multinational company wanted to **deploy workloads across GCP, AWS, and Azure** using **a unified Kubernetes platform**.  
+- **Task:** Implement **multi-cloud Kubernetes orchestration** using **Anthos GKE**.  
+- **Action:**  
+  - Set up **Anthos Config Management** for consistent **policy enforcement**.  
+  - Integrated **Istio for service mesh observability & security**.  
+  - Used **Cloud Monitoring & Cloud Logging** for real-time cluster insights.  
+- **Result:** Reduced **multi-cloud deployment complexity by 50%** while improving **scalability**.  
+
+
+---
 ### 📩 **Want to Connect?**  
 
 📧 Email: [sendtoshailesh@gmail.com](mailto:sendtoshailesh@gmail.com)  
