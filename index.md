@@ -323,6 +323,143 @@ Seasoned technology leader with **19+ years** of experience in the software indu
 
 
 ---
+
+
+## 📌 Oracle & IBM Projects  
+
+### **1️⃣ Large-Scale Exadata Performance Optimization for Global Enterprise**  
+📌 *Technologies:* Oracle Exadata, SQL Tuning, PL/SQL, AWR, Python  
+
+- **Situation:** A multinational enterprise faced **severe performance bottlenecks** in its **Oracle Exadata-based database infrastructure** affecting mission-critical applications.  
+- **Task:** Analyze and optimize **SQL queries, indexing strategies, and storage performance** to improve **database efficiency**.  
+- **Action:**  
+  - Conducted **AWR & ASH analysis** to identify **top slow-running queries**.  
+  - Developed **PL/SQL tuning scripts & indexing strategies** to optimize execution plans.  
+  - Automated **performance monitoring using Python-based scripts**.  
+- **Result:** Reduced **query execution time by 70%**, improving **system responsiveness and reliability**.  
+
+---
+
+### **2️⃣ Oracle Database Automation Framework for Cloud Operations**  
+📌 *Technologies:* Oracle DB, Python, Shell Scripting, OEM, Ansible  
+
+- **Situation:** Oracle Managed Cloud Services (OMCS) needed an **automated database management framework** to handle **cloning, backups, patching, and upgrades**.  
+- **Task:** Develop a **Python & Shell-based automation suite** to streamline **database operations**.  
+- **Action:**  
+  - Created **Python-based automation for database cloning & patching**.  
+  - Integrated with **Oracle Enterprise Manager (OEM) for proactive monitoring**.  
+  - Used **Ansible playbooks** for **multi-instance database deployments**.  
+- **Result:** Reduced **manual intervention by 80%**, improving **operational efficiency & compliance**.  
+
+---
+
+### **3️⃣ High-Availability Oracle Exadata Deployment for BFSI Industry**  
+📌 *Technologies:* Oracle Exadata, ASM, RMAN, Data Guard  
+
+- **Situation:** A leading **banking institution** required a **high-availability, disaster recovery** setup for its **core banking applications** running on Oracle Exadata.  
+- **Task:** Architect and implement **Data Guard-based DR solution** ensuring **zero data loss (RPO = 0)**.  
+- **Action:**  
+  - Designed a **primary-standby replication strategy using Oracle Data Guard**.  
+  - Implemented **ASM & RMAN-based backup automation** for failover readiness.  
+  - Optimized **network latency & redo log synchronization** for real-time replication.  
+- **Result:** Achieved **99.999% availability**, ensuring **seamless failover with no data loss**.  
+
+---
+
+### **4️⃣ Mission-Critical Exalogic & ZFS Performance Tuning**  
+📌 *Technologies:* Oracle Exalogic, ZFS Storage, Oracle RAC, Linux Kernel Tuning  
+
+- **Situation:** A global e-commerce company faced **latency issues in its Exalogic & ZFS-based architecture**, affecting real-time order processing.  
+- **Task:** Conduct **end-to-end performance tuning** to improve **I/O throughput and reduce system bottlenecks**.  
+- **Action:**  
+  - Tuned **Oracle RAC interconnect & cache fusion parameters**.  
+  - Optimized **ZFS storage settings & ARC/L2ARC cache utilization**.  
+  - Configured **Linux kernel parameters & network settings** for low-latency performance.  
+- **Result:** Improved **transaction processing speed by 4x**, reducing **checkout failures by 90%**.  
+
+---
+
+### **5️⃣ Enterprise-Wide Database Lifecycle Management Framework**  
+📌 *Technologies:* Oracle 12c/19c, OEM, Shell Scripting, Terraform  
+
+- **Situation:** IBM’s BFSI clients required a **standardized approach** for **database provisioning, upgrades, and compliance monitoring**.  
+- **Task:** Develop a **fully automated Database Lifecycle Management (DLM) solution**.  
+- **Action:**  
+  - Implemented **Terraform-based automated database provisioning**.  
+  - Integrated **OEM-based health checks & compliance reports**.  
+  - Developed **Shell scripts for backup scheduling & version upgrades**.  
+- **Result:** Enabled **one-click provisioning & compliance monitoring** for **100+ databases across global data centers**.  
+
+---
+
+### **6️⃣ Automation of Schema Design & Database Deployment for BFSI Applications**  
+📌 *Technologies:* Oracle 12c, PL/SQL, Python, UNIX Shell  
+
+- **Situation:** A financial services company needed **automated schema deployment and performance validation** for its **multi-tenant database architecture**.  
+- **Task:** Design and implement an **automation pipeline** for **schema creation, index tuning, and validation**.  
+- **Action:**  
+  - Developed **PL/SQL scripts for automated schema creation**.  
+  - Used **Python scripts for query benchmarking & regression testing**.  
+  - Integrated **Shell scripts for automated database cloning & refreshes**.  
+- **Result:** Reduced **manual database deployment time from 6 hours to 30 minutes**, ensuring **consistent schema performance**.  
+
+---
+
+### **7️⃣ Oracle Exadata Cost Optimization & Capacity Planning**  
+📌 *Technologies:* Oracle Exadata, AWR Reports, Cloud Analytics, Cost Modeling  
+
+- **Situation:** A large-scale Exadata environment faced **excessive resource usage**, leading to **unnecessary hardware costs**.  
+- **Task:** Optimize **Exadata storage & compute usage** to **reduce operational expenses**.  
+- **Action:**  
+  - Conducted **AWR-based workload analysis** to identify **underutilized resources**.  
+  - Tuned **IO resource management (IORM) & memory configurations**.  
+  - Built **forecasting models using Cloud Analytics** to plan future capacity needs.  
+- **Result:** Achieved **30% reduction in hardware costs**, improving **resource efficiency**.  
+
+---
+
+### **8️⃣ Oracle Database Security & Compliance Framework**  
+📌 *Technologies:* Oracle TDE, Data Masking, VPD, Audit Vault  
+
+- **Situation:** A BFSI client needed to **ensure regulatory compliance (PCI-DSS, GDPR) across their database infrastructure**.  
+- **Task:** Implement a **comprehensive database security framework** to **protect sensitive data**.  
+- **Action:**  
+  - Deployed **Oracle TDE (Transparent Data Encryption) for encryption at rest**.  
+  - Configured **Virtual Private Database (VPD) for role-based access control**.  
+  - Integrated **Audit Vault & Database Firewall for real-time threat detection**.  
+- **Result:** Passed **100% compliance audits**, ensuring **zero unauthorized data access incidents**.  
+
+---
+
+### **9️⃣ Oracle Engineered Systems Knowledge Base & Best Practices Development**  
+📌 *Technologies:* Oracle Exadata, Exalogic, Technical Documentation  
+
+- **Situation:** IBM & Oracle customers lacked **standardized troubleshooting guides** for their Exadata/Exalogic environments.  
+- **Task:** Develop a **repository of best practices, architecture blueprints, and troubleshooting guides**.  
+- **Action:**  
+  - Created **detailed technical documentation** covering **installation, tuning, and backup best practices**.  
+  - Conducted **internal training sessions for DBA teams** on **high-performance Exadata tuning**.  
+  - Published **L3/L4 troubleshooting guides**, reducing escalation time.  
+- **Result:** Improved **support resolution time by 50%**, enhancing **customer satisfaction**.  
+
+---
+
+### **🔟 Cloud Migration & Hybrid Database Strategy for IBM BFSI Clients**  
+📌 *Technologies:* Oracle Cloud, Exadata Cloud Service, Hybrid Cloud  
+
+- **Situation:** BFSI clients wanted to **migrate on-prem Oracle databases to Oracle Cloud**, while maintaining **hybrid connectivity**.  
+- **Task:** Develop a **hybrid cloud migration strategy** for a **seamless transition to Exadata Cloud Service**.  
+- **Action:**  
+  - Designed **hybrid connectivity solutions using FastConnect & VPN tunnels**.  
+  - Used **Oracle GoldenGate for near-zero downtime replication**.  
+  - Implemented **DBaaS automation for self-service provisioning**.  
+- **Result:** Successfully migrated **50+ mission-critical databases** with **zero service disruptions**.  
+
+---
+
+
+
+---
 ### 📩 **Want to Connect?**  
 
 📧 Email: [sendtoshailesh@gmail.com](mailto:sendtoshailesh@gmail.com)  
